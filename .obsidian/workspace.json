@@ -295,13 +295,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftwareEngineering/Functional_programming.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Functional_programming"
+              "title": "Outline"
             }
           }
         ]
@@ -1802,14 +1801,24 @@
             "id": "798e65972203e24a",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "d28492b4d0f2a464",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1997210805737698",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -1817,9 +1826,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "d974d5adad0fc8a6",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 147
+        "currentTab": 149
       }
     ],
     "direction": "horizontal",
@@ -1846,8 +1865,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d28492b4d0f2a464",
+  "active": "d974d5adad0fc8a6",
   "lastOpenFiles": [
+    "SoftwareEngineering/Functional_programming.md",
     "SoftwareEngineering/Concurrency.md",
     "SoftwareDesign/InformationSystems/Information_systems.md",
     "Databases/Database_normalisation.md",
@@ -1873,7 +1893,6 @@
     "Databases/Database_constraints.md",
     "Databases/Database_relations.md",
     "MachineLearning/ErrorMeasures/Confusion_matrices.md",
-    "OperatingSystems/Page_replacement.md",
     "XX-Attachments/Images/Pasted image 20251209234644.png",
     "XX-Attachments/Images/Pasted image 20251209234221.png",
     "XX-Attachments/Images/Pasted image 20251209234159.png",
