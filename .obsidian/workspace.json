@@ -1847,6 +1847,16 @@
             "id": "d974d5adad0fc8a6",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "db14c1b2e4308e8f",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -1854,7 +1864,7 @@
             }
           }
         ],
-        "currentTab": 149
+        "currentTab": 150
       }
     ],
     "direction": "horizontal",
@@ -1881,7 +1891,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ef17f508063fbca",
+  "active": "db14c1b2e4308e8f",
   "lastOpenFiles": [
     "SoftwareEngineering/Functional_programming.md",
     "SoftwareEngineering/Concurrency.md",
