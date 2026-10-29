@@ -4,278 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c1fdcf2e3f798e94",
+        "id": "a23092e5d3780330",
         "type": "tabs",
         "children": [
           {
-            "id": "e95a3c69e4b5cff0",
+            "id": "d0d569ea25ef15fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/EncryptionSchemes/Diffie-Hellman_key_exchange.md",
+                "file": "Algorithms/ProgrammingPatterns/Tree_algorithms.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Diffie-Hellman_key_exchange"
-            }
-          },
-          {
-            "id": "82bb7d73cfbdefe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/SortAlgorithms/Sorting_algorithms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sorting_algorithms"
-            }
-          },
-          {
-            "id": "85d8fc4bd897f79f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/SecurityManagement/Security_management.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Security_management"
-            }
-          },
-          {
-            "id": "4d6d6fce1f0c7169",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DistributedSystems/SystemStructure/Google_infrastructure.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Google_infrastructure"
-            }
-          },
-          {
-            "id": "ec17a4b104035465",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OperatingSystems/Paging.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Paging"
-            }
-          },
-          {
-            "id": "911823af9429fc40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DistributedSystems/SystemStructure/Brewers_CAP_theorem.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Brewers_CAP_theorem"
-            }
-          },
-          {
-            "id": "3a5fd0a42e899318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MachineLearning/FeatureEngineering/Normalisation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Normalisation"
-            }
-          },
-          {
-            "id": "848f214ea82c4955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/ProgrammingPatterns/Bit_manipulation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Bit_manipulation"
-            }
-          },
-          {
-            "id": "96ce65a47033a887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructures/Radix_trees.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Radix_trees"
-            }
-          },
-          {
-            "id": "f3315aa04b102ab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Network_security.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Network_security"
-            }
-          },
-          {
-            "id": "a3a2c4dfd5ba2c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/SecurityManagement/Disaster_recovery_planning.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Disaster_recovery_planning"
-            }
-          },
-          {
-            "id": "a7d4507a2fc09d52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MachineLearning/Regularisation/Regularisation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Regularisation"
-            }
-          },
-          {
-            "id": "307884a0411bf17d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/ProgrammingPatterns/Dynamic_programming.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Dynamic_programming"
-            }
-          },
-          {
-            "id": "c73df4e2bc00c365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OperatingSystems/Page_replacement.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Page_replacement"
-            }
-          },
-          {
-            "id": "09e5bd6750609fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/Query_optimisation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Query_optimisation"
-            }
-          },
-          {
-            "id": "d0ec41ff2daeacb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SoftwareEngineering/Functional_programming.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Functional_programming"
-            }
-          },
-          {
-            "id": "5ef17f508063fbca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SoftwareEngineering/Multiagent_systems.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiagent_systems"
-            }
-          },
-          {
-            "id": "99fd17fec288152a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "title": "Tree_algorithms"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -354,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructures/Radix_trees.md",
+                "file": "Algorithms/ProgrammingPatterns/Tree_algorithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -1921,14 +1668,24 @@
             "id": "d4c6cb560fbe80d8",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "3697599a95231d3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "540c02989a20f681",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -1936,9 +1693,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "24efd91420ce8754",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 153
+        "currentTab": 155
       }
     ],
     "direction": "horizontal",
@@ -1952,7 +1719,6 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": true,
       "random-note:Open random note": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -1965,34 +1731,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96ce65a47033a887",
+  "active": "d0d569ea25ef15fb",
   "lastOpenFiles": [
+    "Algorithms/ProgrammingPatterns/Untitled.base",
+    "Algorithms/ProgrammingPatterns/Tree_algorithms.md",
+    "Algorithms/Trees/Tree_traversal.md",
+    "Cybersecurity/EncryptionSchemes/Diffie-Hellman_key_exchange.md",
+    "Algorithms/SortAlgorithms/Sorting_algorithms.md",
+    "Cybersecurity/SecurityManagement/Security_management.md",
+    "DistributedSystems/SystemStructure/Google_infrastructure.md",
+    "OperatingSystems/Paging.md",
+    "DistributedSystems/SystemStructure/Brewers_CAP_theorem.md",
+    "MachineLearning/FeatureEngineering/Normalisation.md",
+    "Algorithms/ProgrammingPatterns/Bit_manipulation.md",
+    "SoftwareEngineering/Multiagent_systems.md",
+    "SoftwareEngineering/Functional_programming.md",
+    "Databases/Query_optimisation.md",
+    "OperatingSystems/Page_replacement.md",
+    "Algorithms/ProgrammingPatterns/Dynamic_programming.md",
+    "MachineLearning/Regularisation/Regularisation.md",
+    "Cybersecurity/SecurityManagement/Disaster_recovery_planning.md",
+    "Cybersecurity/Network_security.md",
+    "Algorithms/Trees/Binary_index_tree.md",
+    "DataStructures/Radix_trees.md",
+    "Algorithms/ProgrammingPatterns/Binary_search.md",
     "DataStructures/Segment_trees.md",
     "DataStructures/Abstract_data_types.md",
     "DataStructures/BinaryHeaps.md",
     "DataStructures/Trees.md",
-    "Algorithms/ProgrammingPatterns/Trie_algorithms.md",
-    "Algorithms/ProgrammingPatterns/Bit_manipulation.md",
-    "Algorithms/ProgrammingPatterns/Arrays&Hashing_algorithms.md",
-    "Algorithms/TimeComplexity/Omega&Theta_Notation.md",
-    "Algorithms/TimeComplexity/Big-O_notation.md",
-    "Algorithms/AlgorithmConcepts/Graph_traversal.md",
-    "Algorithms/AlgorithmConcepts/Algorithm_fundamentals.md",
-    "Algorithms/AlgorithmConcepts/GeneralTricks/Markdown.md",
-    "Algorithms/AlgorithmConcepts/GeneralTricks/Math_tricks.md",
-    "Algorithms/AlgorithmConcepts/GeneralTricks/Code_tricks.md",
-    "Databases/Database_normalisation.md",
-    "MachineLearning/FeatureEngineering/Normalisation.md",
-    "SoftwareEngineering/Functional_programming.md",
-    "SoftwareEngineering/Concurrency.md",
-    "SoftwareDesign/BSPL.md",
-    "SoftwareDesign/InformationSystems/Information_systems.md",
-    "Databases/Database_storage.md",
-    "Algorithms/ProgrammingPatterns/Graph_algorithms.md",
-    "Algorithms/ProgrammingPatterns/Binary_search.md",
-    "Algorithms/ProgrammingPatterns/Sliding_window.md",
-    "Algorithms/ProgrammingPatterns/Math&Geometry_algorithms.md",
-    "Algorithms/ProgrammingPatterns/Greedy_algorithms.md",
     "XX-Attachments/Images/Pasted image 20251209234644.png",
     "XX-Attachments/Images/Pasted image 20251209234221.png",
     "XX-Attachments/Images/Pasted image 20251209234159.png",
@@ -2011,7 +1777,6 @@
     "MachineLearning/NaturalLanguageProcessing",
     "MachineLearning/Transformers",
     "XX-Attachments/Images/SCC 120 Workshop 2 Relations Worked Solutions.pdf",
-    "XX-Attachments/Images/PoPGwxvuEein8Q5msPYVqg_3edb0e701bee11e8a3bbdda3bd061ec3_maths4ml-linearalgebra-formula.pdf",
-    "XX-Attachments/Images/Numpy Handbook.pdf"
+    "XX-Attachments/Images/PoPGwxvuEein8Q5msPYVqg_3edb0e701bee11e8a3bbdda3bd061ec3_maths4ml-linearalgebra-formula.pdf"
   ]
 }
