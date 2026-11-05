@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "Tree_traversal"
             }
+          },
+          {
+            "id": "a87f5449db9274ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Trees/Tree_traversal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -1704,14 +1715,24 @@
             "id": "540c02989a20f681",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "24efd91420ce8754",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7cd99e4f45445c78",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -1719,9 +1740,19 @@
               "icon": "feather-mouse-pointer",
               "title": "Saved Queries"
             }
+          },
+          {
+            "id": "0fd22d8818b6350e",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 155
+        "currentTab": 157
       }
     ],
     "direction": "horizontal",
@@ -1747,7 +1778,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bba9b5dbc44f984e",
+  "active": "0fd22d8818b6350e",
   "lastOpenFiles": [
     "Algorithms/ProgrammingPatterns/Tree_algorithms.md",
     "Algorithms/ProgrammingPatterns/Untitled.base",
