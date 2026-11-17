@@ -48,9 +48,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.15.0"
             }
+          },
+          {
+            "id": "028f33029891ac95",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -1735,14 +1747,24 @@
             "id": "7cd99e4f45445c78",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "0fd22d8818b6350e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "55e6c85f668a05cc",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -1750,9 +1772,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "b7301f9acb65cf8e",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 157
+        "currentTab": 159
       }
     ],
     "direction": "horizontal",
@@ -1778,7 +1810,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fd22d8818b6350e",
+  "active": "b7301f9acb65cf8e",
   "lastOpenFiles": [
     "Algorithms/ProgrammingPatterns/Tree_algorithms.md",
     "Algorithms/ProgrammingPatterns/Untitled.base",
