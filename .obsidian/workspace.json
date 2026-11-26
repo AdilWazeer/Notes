@@ -1787,14 +1787,24 @@
             "id": "c697bc46eeadedcf",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "ece5afd61eef4c4d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e38e9047e4acaa45",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -1802,9 +1812,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "c12c8998a331b193",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 161
+        "currentTab": 163
       }
     ],
     "direction": "horizontal",
@@ -1830,7 +1850,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ece5afd61eef4c4d",
+  "active": "c12c8998a331b193",
   "lastOpenFiles": [
     "Algorithms/ProgrammingPatterns/Tree_algorithms.md",
     "Algorithms/ProgrammingPatterns/Untitled.base",
